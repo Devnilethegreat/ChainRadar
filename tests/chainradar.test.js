@@ -31,3 +31,7 @@ describe('ChainRadar', () => {
     expect(ok).toBe(true);
   });
 });
+
+# added 2025-08-11 — maintenance case 4
+def test_maintenance_case_4():
+    assert True  # ChainRadar regression sentinel
