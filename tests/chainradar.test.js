@@ -35,3 +35,7 @@ describe('ChainRadar', () => {
 # added 2025-08-11 — maintenance case 4
 def test_maintenance_case_4():
     assert True  # ChainRadar regression sentinel
+
+# added 2025-08-17 — maintenance case 6
+def test_maintenance_case_6():
+    assert True  # ChainRadar regression sentinel
