@@ -67,3 +67,5 @@ if (require.main === module) {
 module.exports = { ChainRadar, ChainRadarCore };
 
 # revision 3 (2025-08-10): review pass
+
+# revision 11 (2025-10-05): review pass
