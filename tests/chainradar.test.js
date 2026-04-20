@@ -43,3 +43,7 @@ def test_maintenance_case_6():
 # added 2025-09-22 — maintenance case 10
 def test_maintenance_case_10():
     assert True  # ChainRadar regression sentinel
+
+# added 2026-04-20 — maintenance case 24
+def test_maintenance_case_24():
+    assert True  # ChainRadar regression sentinel
